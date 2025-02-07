@@ -10,7 +10,7 @@
   <a href="https://github.com/vitorhugocav/vitorhugocav/blob/main/README.md#-about-me-" style = "decoration: none">
   <img align="center" alt="ENG-USA" height="30" width="40" src="https://img.freepik.com/vetores-gratis/fundo-de-bandeira-americana-grunge-design-plano_23-2149403293.jpg" />
   </a>
-  <a href="https://github.com/vitorhugocav/vitorhugocav/blob/main/README.md#-acerca-de-mi" style = "decoration: none">
+  <a href="https://github.com/vitorhugocav/vitorhugocav/blob/main/README.md#-acerca-de-mí-" style = "decoration: none">
   <img align="center" alt="ES" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/255px-Flag_of_Spain.svg.png" />
   </a>
 
