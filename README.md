@@ -56,7 +56,7 @@
 
 <div align="left">
   <a href="https://github.com/vitorhugocav/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsasilveira&layout=compact&langs_count=7&theme=rose"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugocav&layout=compact&langs_count=7&theme=rose"/>
 </div>  
 
 
