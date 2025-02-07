@@ -24,7 +24,7 @@
 
 📚 | Graduando no Curso de Barachel em Sistemas de Informação (CEFET-MG)
 
-🪙 | Entusiasta na área de Criptomoedas
+🇮🇹 | Aprendendo o idioma Italiano
 
 #
 <h2> About me </h2>
@@ -33,7 +33,8 @@
 
 📚 | Graduating in the Barachel Course in Information Systems (CEFET-MG)
 
-🪙 | Cryptocurrency enthusiast
+🇮🇹 | Learning Italian Language
+
 
 # 
 <h2> Acerca de mí </h2>
@@ -42,7 +43,8 @@
 
 📚 | Con especialización en sistemas de información
 
-🪙 | Entusiasta de las criptomonedas
+🇮🇹 | Aprendieno el idioma italiano
+
 
 <div align="left">
   <h3> ☎ CONTATOS - CONTACTS</h3>
