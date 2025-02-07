@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
+  <h2> Vítor Hugo Alves Cavalcante </h2>
+</div>
 
-<!--
-**vitorhugocav/vitorhugocav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>IDIOMAS: </h3>
+<div style="display: inline_block"><br>
+  <a href="https://github.com/acsasilveira/acsasilveira/blob/main/README.md#-sobre-mim-" style = "decoration: none">
+  <img align="center" alt="PT-BR" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1000px-Flag_of_Brazil.svg.png" />
+  </a>
+  <a href="https://github.com/acsasilveira/acsasilveira/blob/main/README.md#-about-me-" style = "decoration: none">
+  <img align="center" alt="ENG-USA" height="30" width="40" src="https://img.freepik.com/vetores-gratis/fundo-de-bandeira-americana-grunge-design-plano_23-2149403293.jpg" />
+  </a>
+  <a href="https://github.com/acsasilveira/acsasilveira/blob/main/README.md#-acerca-de-mi" style = "decoration: none">
+  <img align="center" alt="ES" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/255px-Flag_of_Spain.svg.png" />
+  </a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 
+
+<h2> Sobre mim </h2>
+
+🧁 |  23 anos
+
+📚 | Graduando no Curso de Barachel em Sistemas de Informação (CEFET-MG)
+
+🪙 | Entusiasta na área de Criptomoedas
+
+#
+<h2> About me </h2>
+
+🧁 |  23 years old
+
+📚 | Graduating in the Barachel Course in Information Systems (CEFET-MG)
+
+🪙 | Cryptocurrency enthusiast
+
+# 
+<h2> Acerca de mí </h2>
+
+🧁 |  23 años
+
+📚 | Con especialización en sistemas de información
+
+🪙 | Entusiasta de las criptomonedas
+
+<div align="left">
+  <h3> ☎ CONTATOS - CONTACTS</h3>
+</div>
+
+<a href = "mailto:vitorhugocav@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+#
+
+<div align="left">
+  <a href="https://github.com/vitorhugocav/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsasilveira&layout=compact&langs_count=7&theme=rose"/>
+</div>  
+
+
+<div align="left">
+  <h3>📚 FERRAMENTAS/LINGUAGENS QUE ESTOU APRENDENDO  - TOOLS/LANGUAGES I'M LEARNING</h3>
+</div>
+  <div style="display: inline_block"><br>
+  <a href="https://python.org">
+      <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+    </a>
+    <a href="https://jupyter.org">
+      <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" />
+    </a>
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
+</div>
